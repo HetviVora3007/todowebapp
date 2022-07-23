@@ -249,6 +249,7 @@
 @media screen and (max-width: 480px) {
   .maincontainer {
     flex-direction: column;
+    height: 90vh;
   }
 
   .image {
